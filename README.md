@@ -4,9 +4,11 @@ chatgpt-on-wechat的绘图插件。使用Chimera API，需加入ChimeraGPT的dis
 
 # 安装：
 ## 通过godcmd
-	1、#auth password			\\管理员鉴权
-	2、#installp https://github.com/befantasy/imgen.git     \\安装imgen
-	3、#scanp      \\扫描插件并启用
+> #auth password			
+
+> #installp https://github.com/befantasy/imgen.git     
+
+> #scanp      
   
 #	配置：
 ## 申请API KEY:
