@@ -90,5 +90,5 @@ class imgen(Plugin):
         help_text = "根据提示词生成图片。使用Chimera API。"
         if not verbose:
             return help_text
-        help_text = f"根据提示词生成图片\n使用方式：{self.trigger} 提示词\n---------------------------\n当前模型：{self.model}\n可用模型：kandinsky-2.2, sdxl, stable-diffusion-2.1, stable-diffusion-1.5, deepfloyd-if, material-diffusion, midjourney"
+        help_text = f"根据提示词生成图片\n使用方式：{self.trigger} 提示词\n---------------------------\n当前模型：{self.model}\n可用模型：kandinsky-2.2, kandinsky-2, sdxl, stable-diffusion-2.1, stable-diffusion-1.5, deepfloyd-if, material-diffusion"
         return help_text
