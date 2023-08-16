@@ -45,7 +45,7 @@ class imgen(Plugin):
             # 使用 OpenAI GPT API 进行翻译和优化
             translation = openai.Completion.create(
                 engine="text-davinci-003",
-                prompt=f"Translate: {drawprompt}",
+                prompt=f"Translate the following prompt words into English: {drawprompt}",
                 max_tokens=100,
                 n=1,
                 stop=None,
