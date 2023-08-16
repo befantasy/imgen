@@ -1,0 +1,7 @@
+{
+  "authkey": "",
+  "trigger": "绘图", 
+  "model": "kandinsky-2.2", 
+  "model list": "kandinsky-2.2, sdxl, stable-diffusion-2.1, stable-diffusion-1.5, deepfloyd-if, material-diffusion, midjourney",
+  "n": "1"
+}
