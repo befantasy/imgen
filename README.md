@@ -24,3 +24,5 @@ https://chimeragpt.adventblocks.cc/zh
 }
 
 ```
+
+重新载入配置文件，私聊向机器人发送：#reloadp imgen
