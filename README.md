@@ -19,9 +19,9 @@ https://chimeragpt.adventblocks.cc/zh
 ```
 {
   "authkey": "",	\\API KEY
-  "trigger": "制图", 	\\触发词
+  "trigger": "绘图", 	\\触发词
   "model": "kandinsky-2.2", 	\\模型
-  "model list": "kandinsky-2.2, sdxl, stable-diffusion-2.1, stable-diffusion-1.5, deepfloyd-if, material-diffusion, midjourney",		\\可用模型，不需修改，仅供上一行设置参考
+  "model list": "kandinsky-2.2, sdxl, kandinsky-2, stable-diffusion-2.1, stable-diffusion-1.5, deepfloyd-if, material-diffusion",		\\可用模型，不需修改，仅供上一行设置参考
   "n": "1"		\\暂时不要修改
 }
 
